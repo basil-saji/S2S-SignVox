@@ -133,7 +133,7 @@ If you find this repository useful in your research, please consider citing the 
 ```bibtex
 @software{signvox2026,
   title={SignVox: Graph-Based American Sign Language Recognition using Deep Learning},
-  author={Basil Saji and Contributors},
+  author={Zora},
   year={2026}
 }
 ```

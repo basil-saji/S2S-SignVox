@@ -12,7 +12,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Holistic-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
-![Research](https://img.shields.io/badge/Status-Research-blueviolet?style=for-the-badge)
 
 </div>
 

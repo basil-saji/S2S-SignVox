@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤟 SignVox
+# SignVox
 
 ### **Graph-Based American Sign Language Recognition using Deep Learning**
 

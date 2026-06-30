@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+torch
+numpy
+mediapipe
+opencv-python
+piper-tts
+gtts
+python-multipart
+huggingface_hub

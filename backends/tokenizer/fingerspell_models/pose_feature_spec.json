@@ -1,0 +1,5 @@
+{
+    "version": "pose_mlp_v2",
+    "feature_dim": 81,
+    "description": "norm_coords(63) + normal(3) + tips(5) + inter_tips(6) + angles(4)"
+}

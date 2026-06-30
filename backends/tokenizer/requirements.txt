@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+torch
+numpy
+mediapipe==0.10.14
+opencv-python
+gtts
+python-multipart
+tensorflow

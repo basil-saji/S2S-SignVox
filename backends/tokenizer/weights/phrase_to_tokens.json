@@ -1,0 +1,64 @@
+{
+  "CAN I HELP YOU": [
+    "CAN",
+    "I",
+    "HELP_YOU",
+    "YOU"
+  ],
+  "CAN YOU HELP ME": [
+    "CAN",
+    "YOU",
+    "HELP_ME"
+  ],
+  "CAN YOU REPEAT": [
+    "CAN",
+    "YOU",
+    "REPEAT"
+  ],
+  "CAN YOU SEE ME": [
+    "CAN",
+    "YOU",
+    "SEE",
+    "ME"
+  ],
+  "CAN YOU WAIT": [
+    "CAN",
+    "YOU",
+    "WAIT"
+  ],
+  "I NEED HELP": [
+    "I",
+    "NEED",
+    "HELP_ME"
+  ],
+  "I NOT UNDERSTAND": [
+    "I",
+    "NOT",
+    "UNDERSTAND"
+  ],
+  "I UNDERSTAND": [
+    "I",
+    "UNDERSTAND"
+  ],
+  "PLEASE HELP ME": [
+    "PLEASE",
+    "HELP_ME"
+  ],
+  "PLEASE REPEAT": [
+    "PLEASE",
+    "REPEAT"
+  ],
+  "PLEASE WAIT": [
+    "PLEASE",
+    "WAIT"
+  ],
+  "YOU NEED HELP": [
+    "YOU",
+    "NEED",
+    "HELP_YOU"
+  ],
+  "YOU UNDERSTAND": [
+    "YOU",
+    "UNDERSTAND"
+  ]
+}

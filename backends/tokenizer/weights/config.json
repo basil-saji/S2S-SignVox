@@ -1,0 +1,9 @@
+{
+  "vocab_size": 16,
+  "hidden_size": 256,
+  "gru_hidden": 128,
+  "encoder": "UniSign H2S",
+  "decoder": "BiGRU + GRU Seq2Seq",
+  "split": "FULL",
+  "phrase_accuracy": 0.9048
+}

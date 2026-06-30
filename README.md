@@ -1,4 +1,5 @@
 <div align="center">
+<img width="128" height="128" alt="signvox_logo" src="https://github.com/user-attachments/assets/30a53fae-bcde-450e-bde0-83bfbb54b156" />
 
 # SignVox
 
